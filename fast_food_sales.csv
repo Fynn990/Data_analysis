@@ -1,0 +1,1001 @@
+order_id,date,item_name,category,quantity,unit_price,payment_method,branch,customer_rating
+1,06/01/2024,Iced Tea,Wraps,5,2.0,MobileMoney,Eastside,2
+2,26/03/2024,Iced Tea,Wraps,10,30.09,MobileMoney,Downtown,
+3,04/07/2024,Orange Juice,Wraps,6,14.53,Card,Uptown,4
+4,11/07/2024,Veggie Burger,Desserts,1,39.32,MobileMoney,Mall,4
+5,09/02/2026,Veggie Burger,Pizza,2,39.37,MobileMoney,West End,4
+6,09/08/2023,Chicken Wings,Burger,8,3.72,Card,Downtown,3
+7,13/10/2024,Fries,Salads,5,37.91,Card,Uptown,4
+8,22/05/2026,Chicken Wings,Sides,6,21.7,MobileMoney,Airport,2
+9,12/07/2025,Veggie Burger,Desserts,8,2.42,Cash,Uptown,2
+10,31/05/2023,Chocolate Shake,Wraps,1,1.74,Cash,Downtown,
+11,24/10/2025,Fries,Wraps,10,28.79,Cash,Mall,4
+12,07/08/2024,Pepperoni Pizza,Sides,5,33.46,Cash,West End,1
+13,23/03/2026,Iced Tea,Drinks,1,29.73,Cash,Riverside,2
+14,06/07/2024,Fries,Burger,3,1.1,Cash,Downtown,1
+15,10/02/2024,Orange Juice,Burger,9,16.84,MobileMoney,Downtown,1
+16,17/01/2024,Iced Tea,Salads,4,37.28,Card,Mall,1
+17,27/02/2024,Iced Tea,Salads,3,3.55,MobileMoney,West End,2
+18,28/08/2023,Chicken Wings,Drinks,10,37.41,Cash,Mall,4
+19,16/01/2024,Veggie Burger,Salads,3,7.94,MobileMoney,Uptown,4
+20,05/11/2024,Veggie Burger,Drinks,10,29.16,Card,Downtown,1
+21,01/08/2023,Coke,Salads,3,11.76,Card,Downtown,3
+22,21/02/2025,Fries,Drinks,4,32.43,MobileMoney,Eastside,3
+23,12/12/2025,Cheeseburger,Drinks,7,31.56,MobileMoney,West End,1
+24,16/11/2024,Margherita Pizza,Drinks,5,1.68,Card,West End,1
+25,09/12/2026,Margherita Pizza,Burger,9,32.56,Card,West End,2
+26,03/12/2025,Iced Tea,Pizza,7,11.03,MobileMoney,Airport,2
+27,02/12/2023,Cheeseburger,Drinks,4,18.11,Cash,West End,5
+28,09/01/2024,Iced Tea,Burger,8,34.87,MobileMoney,West End,2
+29,30/07/2023,Veggie Burger,Burger,6,13.82,MobileMoney,West End,4
+30,05/11/2023,Orange Juice,Drinks,6,16.73,Card,Riverside,4
+31,19/07/2025,Cheeseburger,Drinks,8,21.92,Card,Airport,2
+32,11/01/2023,Iced Tea,Salads,7,16.6,Card,Uptown,4
+33,18/09/2024,Pepperoni Pizza,Sides,2,24.85,Card,Riverside,2
+34,14/03/2026,Chicken Wings,Wraps,9,18.72,MobileMoney,West End,5
+35,25/01/2026,Coke,Desserts,7,7.39,Cash,Riverside,
+36,11/08/2023,Cheeseburger,Burger,8,32.5,MobileMoney,Downtown,3
+37,26/01/2026,Orange Juice,Wraps,5,27.04,Cash,Uptown,2
+38,07/11/2023,Cheeseburger,Desserts,9,9.48,Card,West End,1
+39,07/01/2025,Fries,Pizza,10,8.3,Card,Downtown,
+40,13/05/2025,Orange Juice,Burger,8,19.12,Cash,Riverside,1
+41,31/05/2026,Pepperoni Pizza,Burger,6,13.49,Cash,West End,5
+42,21/02/2023,Coke,Burger,4,1.32,Cash,Eastside,1
+43,15/03/2023,Margherita Pizza,Drinks,3,15.62,MobileMoney,West End,
+44,11/04/2026,Pepperoni Pizza,Salads,9,27.91,Cash,Uptown,2
+45,07/07/2026,Iced Tea,Drinks,9,12.62,Cash,West End,5
+46,15/02/2023,Chicken Wings,Salads,5,6.04,Card,Downtown,2
+47,16/01/2026,Margherita Pizza,Salads,2,20.31,MobileMoney,Eastside,4
+48,29/05/2024,Coke,Wraps,7,30.81,Card,Airport,4
+49,27/12/2024,Chicken Wings,Salads,5,33.4,Card,West End,4
+50,30/03/2023,Chicken Wings,Sides,9,15.2,Cash,Eastside,3
+51,05/01/2026,Fries,Burger,1,19.98,Card,Riverside,1
+52,13/09/2025,Coke,Desserts,2,27.59,Card,Eastside,3
+53,29/07/2026,Margherita Pizza,Drinks,8,10.59,Card,Eastside,4
+54,23/06/2025,Coke,Wraps,3,30.98,Card,Uptown,1
+55,22/03/2026,Pepperoni Pizza,Drinks,2,23.74,MobileMoney,Airport,4
+56,04/11/2025,Fries,Salads,10,32.73,MobileMoney,West End,3
+57,05/07/2024,Coke,Pizza,6,5.8,MobileMoney,West End,2
+58,19/09/2024,Chocolate Shake,Burger,2,26.3,Card,West End,3
+59,10/11/2023,Veggie Burger,Salads,4,26.82,Card,Eastside,4
+60,17/10/2026,Chocolate Shake,Wraps,1,33.78,MobileMoney,Riverside,1
+61,13/02/2023,Veggie Burger,Burger,10,19.48,Cash,Mall,4
+62,28/12/2026,Chicken Wings,Wraps,7,34.08,MobileMoney,Mall,1
+63,19/11/2024,Margherita Pizza,Desserts,5,21.31,Card,Eastside,5
+64,15/10/2024,Chicken Wings,Sides,2,26.84,Cash,Downtown,
+65,23/03/2023,Iced Tea,Drinks,8,22.58,MobileMoney,Uptown,
+66,04/10/2023,Veggie Burger,Drinks,8,29.11,Card,Eastside,2
+67,27/11/2023,Cheeseburger,Salads,2,33.15,Card,Eastside,5
+68,09/03/2026,Margherita Pizza,Drinks,2,11.09,Card,Riverside,3
+69,19/09/2026,Pepperoni Pizza,Wraps,7,33.01,Card,Riverside,1
+70,06/11/2023,Orange Juice,Drinks,1,39.78,Cash,Eastside,
+71,03/08/2026,Cheeseburger,Wraps,9,21.35,Card,Eastside,1
+72,09/11/2023,Pepperoni Pizza,Desserts,9,4.91,Cash,West End,1
+73,09/01/2026,Fries,Sides,4,18.86,Card,Uptown,2
+74,09/10/2025,Veggie Burger,Desserts,1,10.79,MobileMoney,Mall,5
+75,01/10/2024,Veggie Burger,Burger,6,3.09,Card,Riverside,2
+76,29/11/2023,Pepperoni Pizza,Sides,8,15.61,Cash,West End,5
+77,26/02/2024,Orange Juice,Drinks,9,1.38,Cash,Airport,
+78,13/04/2023,Pepperoni Pizza,Salads,1,1.37,MobileMoney,Downtown,2
+79,07/09/2023,Orange Juice,Desserts,10,6.91,Card,West End,1
+80,24/12/2024,Coke,Burger,1,34.32,MobileMoney,Mall,3
+81,19/06/2025,Orange Juice,Pizza,10,28.56,MobileMoney,Riverside,2
+82,05/06/2024,Coke,Sides,7,21.85,Card,Downtown,5
+83,12/12/2025,Fries,Salads,5,36.43,Card,Eastside,5
+84,26/05/2025,Chocolate Shake,Sides,5,1.06,Card,Downtown,3
+85,06/07/2024,Cheeseburger,Pizza,10,30.74,Cash,Airport,2
+86,02/01/2023,Fries,Drinks,1,26.84,MobileMoney,Eastside,2
+87,16/04/2024,Orange Juice,Pizza,4,38.27,Cash,West End,4
+88,09/11/2024,Margherita Pizza,Salads,4,14.39,MobileMoney,Uptown,3
+89,26/12/2025,Fries,Drinks,10,4.54,MobileMoney,Eastside,3
+90,03/02/2025,Chicken Wings,Desserts,6,22.77,MobileMoney,Mall,3
+91,23/01/2024,Orange Juice,Drinks,3,15.5,MobileMoney,West End,1
+92,04/06/2023,Margherita Pizza,Drinks,8,6.05,Card,Mall,4
+93,01/01/2025,Fries,Sides,1,25.58,MobileMoney,Riverside,1
+94,07/11/2024,Iced Tea,Sides,8,5.69,Card,West End,4
+95,12/01/2025,Cheeseburger,Wraps,6,27.42,MobileMoney,Eastside,2
+96,21/04/2025,Orange Juice,Pizza,4,25.31,Card,West End,2
+97,15/05/2023,Fries,Burger,2,28.15,Cash,Airport,1
+98,13/03/2024,Chocolate Shake,Drinks,3,22.94,Card,Downtown,1
+99,13/04/2025,Orange Juice,Drinks,6,11.72,MobileMoney,Airport,3
+100,03/10/2024,Veggie Burger,Sides,10,14.64,Card,Uptown,5
+101,03/02/2025,Pepperoni Pizza,Burger,5,6.79,Card,Downtown,4
+102,21/08/2026,Cheeseburger,Wraps,2,32.16,Cash,Riverside,3
+103,24/08/2024,Margherita Pizza,Burger,8,39.09,MobileMoney,Mall,4
+104,13/09/2023,Coke,Wraps,9,35.4,MobileMoney,Mall,4
+105,22/11/2023,Coke,Salads,4,17.92,Cash,Riverside,2
+106,02/08/2025,Coke,Wraps,1,12.56,Cash,Riverside,4
+107,19/11/2026,Pepperoni Pizza,Salads,10,6.37,MobileMoney,Eastside,
+108,08/08/2023,Iced Tea,Desserts,2,37.97,Card,Downtown,3
+109,18/06/2025,Coke,Burger,7,17.21,Cash,Uptown,5
+110,03/05/2026,Orange Juice,Pizza,10,12.88,Card,Mall,2
+111,06/04/2026,Pepperoni Pizza,Wraps,9,33.78,Card,Airport,2
+112,03/11/2026,Pepperoni Pizza,Salads,10,23.5,MobileMoney,West End,5
+113,25/09/2024,Iced Tea,Sides,6,35.89,MobileMoney,Uptown,3
+114,03/01/2025,Veggie Burger,Drinks,5,27.95,Card,Downtown,1
+115,17/12/2025,Orange Juice,Sides,9,19.97,MobileMoney,West End,
+116,21/04/2024,Chocolate Shake,Burger,4,6.99,Card,Uptown,
+117,02/05/2026,Iced Tea,Drinks,8,17.47,MobileMoney,Uptown,5
+118,26/12/2025,Orange Juice,Salads,3,25.48,Cash,Uptown,2
+119,28/03/2025,Coke,Salads,8,30.53,Cash,Downtown,2
+120,23/03/2026,Cheeseburger,Pizza,4,19.72,MobileMoney,Downtown,3
+121,07/01/2023,Cheeseburger,Wraps,5,1.97,MobileMoney,Eastside,5
+122,20/10/2024,Chicken Wings,Pizza,5,10.21,MobileMoney,West End,3
+123,24/04/2023,Fries,Pizza,8,33.58,Cash,West End,1
+124,12/06/2026,Coke,Burger,4,37.64,Card,Downtown,2
+125,06/07/2025,Orange Juice,Sides,7,34.06,MobileMoney,Airport,3
+126,04/03/2024,Cheeseburger,Wraps,8,12.84,MobileMoney,Airport,
+127,30/09/2026,Fries,Pizza,4,17.66,Card,Mall,5
+128,10/02/2026,Veggie Burger,Burger,8,25.35,Cash,West End,1
+129,09/12/2026,Fries,Salads,7,18.36,MobileMoney,Riverside,4
+130,04/04/2026,Chicken Wings,Burger,3,11.82,Cash,Eastside,2
+131,19/06/2024,Margherita Pizza,Desserts,8,8.81,Card,Uptown,5
+132,05/01/2025,Veggie Burger,Drinks,7,6.19,Card,Mall,3
+133,17/02/2025,Chicken Wings,Salads,5,29.05,MobileMoney,West End,5
+134,08/03/2024,Fries,Drinks,9,25.96,Card,Mall,5
+135,25/08/2024,Chicken Wings,Desserts,1,12.84,Card,Riverside,3
+136,20/02/2026,Veggie Burger,Wraps,5,18.22,Cash,Downtown,4
+137,26/07/2023,Orange Juice,Drinks,4,22.69,Card,West End,1
+138,14/10/2023,Iced Tea,Wraps,3,31.17,MobileMoney,West End,5
+139,16/02/2024,Chocolate Shake,Drinks,4,27.63,MobileMoney,Eastside,1
+140,16/01/2023,Orange Juice,Wraps,5,39.67,Cash,Riverside,3
+141,09/01/2025,Chocolate Shake,Burger,5,2.94,Card,Mall,3
+142,19/11/2025,Fries,Sides,6,6.53,Card,Uptown,3
+143,22/08/2023,Coke,Wraps,5,15.13,Card,Mall,3
+144,29/10/2023,Chocolate Shake,Wraps,7,24.28,Cash,Mall,1
+145,30/09/2025,Iced Tea,Drinks,5,8.96,Card,Mall,
+146,28/09/2025,Iced Tea,Wraps,3,7.37,Card,Eastside,4
+147,23/07/2024,Fries,Sides,7,26.2,Cash,Uptown,5
+148,24/12/2025,Chocolate Shake,Burger,10,34.89,Cash,Eastside,3
+149,29/11/2023,Fries,Burger,4,22.08,MobileMoney,Airport,
+150,09/01/2024,Chocolate Shake,Salads,1,16.99,Card,Riverside,4
+151,08/08/2026,Pepperoni Pizza,Sides,3,19.24,MobileMoney,Airport,2
+152,03/07/2026,Orange Juice,Sides,8,33.46,Card,Uptown,
+153,06/12/2023,Iced Tea,Salads,6,28.98,MobileMoney,Airport,2
+154,19/10/2026,Cheeseburger,Sides,1,19.58,Card,West End,
+155,25/07/2024,Coke,Desserts,3,24.02,Card,Riverside,5
+156,17/01/2025,Coke,Wraps,10,17.3,Card,Mall,2
+157,08/05/2025,Chicken Wings,Pizza,4,20.86,Card,Downtown,2
+158,04/06/2025,Coke,Burger,5,36.56,Card,Eastside,4
+159,11/07/2023,Chocolate Shake,Sides,6,36.04,MobileMoney,Eastside,1
+160,04/06/2025,Iced Tea,Drinks,6,30.78,MobileMoney,Downtown,
+161,23/08/2023,Chicken Wings,Wraps,6,28.92,MobileMoney,Uptown,5
+162,17/12/2023,Iced Tea,Salads,6,31.95,Card,Airport,4
+163,14/01/2026,Coke,Wraps,6,9.97,Cash,Eastside,5
+164,09/04/2023,Chocolate Shake,Salads,6,20.94,Cash,Airport,5
+165,13/02/2024,Chocolate Shake,Salads,7,1.55,Cash,Uptown,2
+166,31/07/2023,Chicken Wings,Sides,5,22.12,Cash,West End,2
+167,25/10/2024,Margherita Pizza,Pizza,6,20.7,Card,Mall,
+168,25/01/2023,Iced Tea,Salads,8,32.43,MobileMoney,Uptown,5
+169,29/04/2025,Chicken Wings,Burger,9,39.33,Cash,Mall,1
+170,15/06/2026,Chicken Wings,Sides,9,28.17,Card,Uptown,3
+171,09/06/2024,Veggie Burger,Wraps,9,16.15,Cash,Eastside,1
+172,03/05/2024,Chocolate Shake,Burger,7,24.82,Card,Riverside,5
+173,03/12/2025,Veggie Burger,Drinks,10,6.32,Card,Eastside,2
+174,28/09/2025,Fries,Pizza,8,7.49,Cash,Riverside,1
+175,30/08/2025,Coke,Salads,5,3.79,Cash,Mall,1
+176,03/02/2023,Iced Tea,Pizza,2,22.26,Card,Eastside,3
+177,02/09/2023,Pepperoni Pizza,Burger,7,13.07,Card,Eastside,5
+178,08/01/2024,Iced Tea,Wraps,3,11.47,MobileMoney,Eastside,
+179,09/07/2026,Fries,Wraps,4,32.54,MobileMoney,Downtown,3
+180,08/04/2023,Veggie Burger,Wraps,1,5.2,Card,Uptown,
+181,09/11/2025,Chocolate Shake,Burger,10,26.05,Cash,Uptown,5
+182,09/01/2023,Pepperoni Pizza,Desserts,4,6.49,MobileMoney,West End,1
+183,31/12/2024,Chicken Wings,Burger,9,29.38,Cash,Mall,
+184,17/05/2023,Cheeseburger,Salads,7,11.12,MobileMoney,Eastside,3
+185,18/08/2023,Veggie Burger,Pizza,1,8.33,Card,Airport,1
+186,27/04/2023,Chicken Wings,Burger,1,7.76,Cash,Mall,1
+187,25/02/2025,Iced Tea,Sides,6,11.95,MobileMoney,Mall,4
+188,06/09/2024,Iced Tea,Sides,5,24.0,Cash,Uptown,
+189,26/09/2025,Orange Juice,Drinks,2,21.74,MobileMoney,Mall,4
+190,18/07/2023,Chocolate Shake,Burger,7,22.06,MobileMoney,Airport,3
+191,04/09/2024,Margherita Pizza,Wraps,10,17.58,Cash,Mall,4
+192,18/02/2025,Chocolate Shake,Salads,3,19.76,Card,Downtown,1
+193,07/04/2026,Chicken Wings,Burger,4,39.46,Cash,Airport,5
+194,05/07/2023,Pepperoni Pizza,Burger,10,2.85,Card,Eastside,2
+195,27/02/2026,Orange Juice,Drinks,3,17.02,MobileMoney,Mall,2
+196,27/05/2024,Fries,Salads,9,5.68,MobileMoney,Downtown,5
+197,19/11/2025,Pepperoni Pizza,Pizza,7,17.49,Cash,West End,2
+198,21/10/2023,Pepperoni Pizza,Burger,7,19.49,Card,Uptown,2
+199,30/09/2025,Veggie Burger,Pizza,9,8.93,Card,Uptown,5
+200,21/01/2025,Margherita Pizza,Sides,9,22.43,Cash,Eastside,
+201,10/10/2024,Veggie Burger,Sides,10,28.28,Card,Mall,
+202,23/12/2024,Cheeseburger,Drinks,4,2.8,MobileMoney,Uptown,2
+203,03/06/2024,Margherita Pizza,Salads,2,1.23,Cash,Riverside,1
+204,19/09/2023,Margherita Pizza,Drinks,5,10.47,Cash,Downtown,4
+205,07/12/2026,Cheeseburger,Drinks,1,30.31,Card,Downtown,2
+206,14/03/2026,Fries,Drinks,9,12.81,Cash,Mall,3
+207,31/10/2026,Fries,Burger,9,36.06,Card,Riverside,2
+208,12/11/2026,Margherita Pizza,Salads,2,1.5,Card,Airport,1
+209,23/06/2024,Pepperoni Pizza,Wraps,10,17.02,Cash,Uptown,3
+210,30/12/2026,Orange Juice,Desserts,10,38.6,MobileMoney,Eastside,1
+211,12/07/2023,Pepperoni Pizza,Drinks,7,20.39,MobileMoney,Riverside,5
+212,05/10/2026,Chocolate Shake,Sides,10,38.26,Card,Downtown,3
+213,25/05/2024,Chocolate Shake,Pizza,2,12.29,Card,Airport,3
+214,10/08/2024,Chicken Wings,Pizza,8,29.62,Card,Uptown,1
+215,05/04/2025,Fries,Wraps,3,12.3,Cash,Uptown,2
+216,18/12/2026,Pepperoni Pizza,Wraps,4,39.51,MobileMoney,Airport,5
+217,08/02/2024,Cheeseburger,Burger,1,26.94,Cash,West End,3
+218,17/12/2023,Veggie Burger,Burger,1,9.04,Cash,Downtown,4
+219,15/11/2024,Margherita Pizza,Salads,10,36.59,Cash,Downtown,5
+220,11/02/2025,Chocolate Shake,Burger,2,34.48,Card,Eastside,4
+221,18/07/2026,Margherita Pizza,Salads,4,21.65,MobileMoney,Uptown,
+222,06/02/2025,Margherita Pizza,Wraps,5,22.33,Cash,Eastside,1
+223,13/11/2025,Margherita Pizza,Burger,9,5.39,MobileMoney,West End,4
+224,26/11/2026,Iced Tea,Sides,4,1.97,Cash,Airport,3
+225,08/09/2025,Cheeseburger,Salads,4,3.41,MobileMoney,Airport,5
+226,31/01/2026,Cheeseburger,Wraps,8,1.02,MobileMoney,Eastside,
+227,07/01/2023,Chocolate Shake,Burger,7,31.06,MobileMoney,West End,3
+228,12/12/2023,Coke,Wraps,6,11.77,MobileMoney,Airport,4
+229,15/04/2025,Iced Tea,Salads,9,27.92,MobileMoney,Eastside,
+230,04/02/2023,Orange Juice,Drinks,9,17.58,MobileMoney,West End,1
+231,19/09/2025,Chocolate Shake,Pizza,6,12.07,MobileMoney,Eastside,2
+232,26/10/2024,Veggie Burger,Salads,9,29.27,Card,Downtown,5
+233,23/10/2023,Coke,Sides,1,21.7,Cash,West End,3
+234,05/06/2025,Veggie Burger,Drinks,5,14.08,Card,Downtown,1
+235,12/07/2026,Orange Juice,Drinks,10,13.66,Card,West End,2
+236,23/03/2026,Pepperoni Pizza,Desserts,10,14.82,Card,Airport,3
+237,01/09/2026,Chicken Wings,Drinks,3,6.79,Card,West End,3
+238,13/01/2023,Cheeseburger,Drinks,3,30.7,MobileMoney,Eastside,4
+239,28/10/2023,Orange Juice,Drinks,3,12.77,Cash,West End,4
+240,14/09/2023,Fries,Pizza,6,30.4,Cash,Airport,1
+241,01/04/2024,Veggie Burger,Pizza,1,28.5,Card,West End,3
+242,19/10/2023,Chocolate Shake,Desserts,6,28.71,Cash,West End,3
+243,11/02/2024,Iced Tea,Sides,3,17.85,MobileMoney,Riverside,4
+244,04/09/2024,Coke,Desserts,1,23.5,Cash,Uptown,1
+245,29/01/2023,Chocolate Shake,Desserts,1,8.19,MobileMoney,Eastside,3
+246,09/05/2023,Orange Juice,Desserts,5,25.61,Card,Eastside,3
+247,16/01/2025,Chocolate Shake,Desserts,8,16.81,Card,Riverside,
+248,20/03/2023,Veggie Burger,Salads,10,34.05,Cash,West End,5
+249,18/06/2024,Coke,Burger,5,36.58,Card,Uptown,2
+250,17/11/2024,Chocolate Shake,Desserts,3,15.12,Card,Mall,1
+251,12/11/2024,Coke,Desserts,4,5.39,Cash,Mall,1
+252,17/12/2024,Iced Tea,Salads,5,27.19,Card,Uptown,1
+253,06/05/2025,Cheeseburger,Burger,10,16.35,Cash,West End,2
+254,03/10/2023,Coke,Burger,6,15.9,MobileMoney,Eastside,3
+255,02/02/2024,Veggie Burger,Pizza,4,2.09,Card,Eastside,2
+256,22/08/2023,Margherita Pizza,Drinks,9,28.72,Card,Riverside,1
+257,21/10/2024,Veggie Burger,Sides,9,28.49,Card,Airport,
+258,28/08/2023,Iced Tea,Desserts,6,4.24,Cash,Uptown,
+259,17/04/2024,Fries,Sides,7,6.84,Cash,Riverside,
+260,25/11/2025,Margherita Pizza,Pizza,3,9.11,MobileMoney,Eastside,
+261,24/04/2026,Cheeseburger,Burger,2,30.32,MobileMoney,Airport,1
+262,01/10/2026,Iced Tea,Pizza,7,35.28,MobileMoney,Downtown,1
+263,24/02/2024,Pepperoni Pizza,Salads,4,25.85,Cash,Riverside,5
+264,25/09/2025,Cheeseburger,Pizza,2,31.88,MobileMoney,Eastside,
+265,29/10/2025,Veggie Burger,Salads,7,7.23,MobileMoney,Eastside,4
+266,29/06/2023,Coke,Wraps,6,3.69,Card,West End,3
+267,04/06/2024,Orange Juice,Salads,3,5.63,Card,Airport,3
+268,21/10/2025,Orange Juice,Wraps,4,39.85,Card,Mall,1
+269,06/05/2025,Iced Tea,Pizza,4,32.3,Cash,Mall,1
+270,15/03/2024,Coke,Drinks,6,34.55,Cash,Downtown,
+271,11/11/2026,Chocolate Shake,Salads,2,27.7,Cash,Airport,
+272,02/04/2023,Fries,Desserts,8,35.23,MobileMoney,Riverside,4
+273,02/08/2026,Veggie Burger,Wraps,1,17.32,Card,Airport,1
+274,28/02/2025,Margherita Pizza,Desserts,8,8.21,Cash,Airport,1
+275,15/03/2026,Chicken Wings,Salads,4,31.6,Card,West End,
+276,31/05/2026,Pepperoni Pizza,Burger,4,15.21,Card,Downtown,
+277,14/03/2023,Fries,Pizza,7,6.0,MobileMoney,Airport,4
+278,17/12/2025,Coke,Sides,6,36.13,MobileMoney,Downtown,5
+279,11/01/2024,Pepperoni Pizza,Desserts,10,8.94,MobileMoney,Eastside,2
+280,24/06/2024,Coke,Salads,7,3.69,Card,West End,1
+281,18/02/2023,Margherita Pizza,Sides,2,31.47,Card,Mall,2
+282,19/09/2024,Orange Juice,Burger,3,18.79,Card,Mall,
+283,16/09/2023,Fries,Burger,9,3.49,Cash,Eastside,3
+284,23/05/2025,Pepperoni Pizza,Drinks,5,5.92,MobileMoney,Mall,3
+285,20/02/2025,Iced Tea,Salads,8,34.71,Cash,Downtown,5
+286,04/09/2024,Veggie Burger,Pizza,1,1.78,MobileMoney,Downtown,4
+287,10/10/2026,Veggie Burger,Desserts,1,3.95,Card,Uptown,1
+288,23/05/2023,Fries,Sides,5,21.67,Card,Mall,5
+289,28/02/2024,Chocolate Shake,Sides,10,4.19,Cash,Eastside,4
+290,11/06/2023,Orange Juice,Drinks,5,6.09,MobileMoney,Uptown,5
+291,27/01/2023,Orange Juice,Salads,6,25.75,Cash,Eastside,3
+292,28/09/2025,Pepperoni Pizza,Wraps,4,29.68,Cash,Riverside,1
+293,15/06/2026,Fries,Drinks,7,39.28,MobileMoney,Eastside,1
+294,13/01/2025,Coke,Salads,4,33.53,Cash,Riverside,4
+295,20/10/2026,Coke,Wraps,10,25.78,Cash,Uptown,
+296,18/03/2026,Iced Tea,Burger,3,13.07,Card,Downtown,1
+297,30/09/2026,Chicken Wings,Salads,9,9.09,MobileMoney,West End,3
+298,14/06/2024,Pepperoni Pizza,Drinks,9,15.19,Cash,Mall,2
+299,10/01/2024,Margherita Pizza,Burger,7,7.67,MobileMoney,Uptown,2
+300,14/03/2026,Fries,Salads,4,18.27,Cash,Uptown,1
+301,03/07/2025,Chocolate Shake,Desserts,7,25.5,Card,Airport,4
+302,07/08/2024,Iced Tea,Sides,1,28.24,Cash,Airport,1
+303,05/06/2023,Coke,Burger,7,4.87,MobileMoney,Uptown,5
+304,18/01/2026,Chicken Wings,Burger,6,6.89,Cash,Airport,
+305,24/07/2023,Cheeseburger,Drinks,1,18.25,Cash,Mall,3
+306,05/03/2023,Veggie Burger,Salads,10,17.52,Cash,Riverside,2
+307,29/05/2025,Iced Tea,Sides,1,23.37,MobileMoney,Eastside,4
+308,24/11/2026,Veggie Burger,Drinks,7,2.97,MobileMoney,Uptown,4
+309,28/06/2025,Orange Juice,Sides,10,25.36,MobileMoney,Mall,4
+310,19/10/2024,Orange Juice,Salads,3,20.77,Cash,Uptown,4
+311,28/08/2025,Margherita Pizza,Pizza,5,25.17,Cash,Eastside,2
+312,07/02/2023,Chicken Wings,Pizza,8,2.09,Cash,Uptown,3
+313,10/10/2026,Coke,Sides,7,20.34,Cash,Eastside,4
+314,16/10/2026,Chicken Wings,Desserts,8,19.09,MobileMoney,Downtown,1
+315,31/05/2024,Orange Juice,Burger,10,38.23,Cash,Downtown,1
+316,05/07/2023,Coke,Burger,6,14.44,MobileMoney,West End,5
+317,26/09/2025,Pepperoni Pizza,Drinks,5,12.87,MobileMoney,Downtown,2
+318,20/03/2025,Chocolate Shake,Salads,10,27.89,Cash,West End,
+319,11/03/2026,Orange Juice,Wraps,2,4.53,MobileMoney,West End,2
+320,05/07/2024,Chicken Wings,Salads,1,9.87,MobileMoney,West End,2
+321,30/08/2025,Coke,Salads,1,34.7,Cash,Riverside,2
+322,12/08/2024,Pepperoni Pizza,Desserts,8,13.04,Card,West End,5
+323,19/07/2024,Iced Tea,Sides,5,39.88,Card,Airport,1
+324,20/04/2024,Veggie Burger,Wraps,8,37.72,Cash,Riverside,
+325,02/03/2023,Iced Tea,Burger,8,34.62,Card,Uptown,
+326,27/07/2024,Iced Tea,Sides,3,37.68,Card,Airport,4
+327,09/09/2024,Margherita Pizza,Wraps,6,31.04,MobileMoney,Downtown,3
+328,01/06/2026,Chocolate Shake,Salads,6,14.15,MobileMoney,West End,
+329,05/01/2023,Coke,Drinks,5,14.44,Cash,Eastside,2
+330,07/06/2023,Chocolate Shake,Salads,4,36.92,Card,Mall,
+331,31/03/2026,Chocolate Shake,Salads,9,17.5,MobileMoney,Uptown,1
+332,07/05/2025,Pepperoni Pizza,Desserts,7,30.53,Card,West End,1
+333,07/02/2024,Fries,Sides,5,8.18,Cash,Eastside,2
+334,17/06/2026,Coke,Drinks,3,5.67,Card,Airport,
+335,29/01/2024,Coke,Wraps,9,7.95,MobileMoney,Riverside,4
+336,13/07/2023,Cheeseburger,Burger,8,33.04,MobileMoney,West End,4
+337,25/11/2023,Chocolate Shake,Sides,9,5.31,Cash,Airport,4
+338,22/09/2025,Pepperoni Pizza,Burger,8,25.74,Cash,West End,2
+339,07/05/2024,Pepperoni Pizza,Sides,1,31.07,Card,Riverside,3
+340,09/07/2024,Fries,Desserts,6,23.04,Cash,Uptown,2
+341,20/11/2024,Cheeseburger,Burger,2,27.05,MobileMoney,Downtown,3
+342,16/02/2025,Iced Tea,Drinks,8,17.24,MobileMoney,Mall,1
+343,22/12/2025,Iced Tea,Wraps,3,20.88,Card,Mall,1
+344,31/01/2024,Cheeseburger,Pizza,1,15.04,Card,West End,1
+345,08/06/2026,Chocolate Shake,Wraps,9,23.15,Card,Eastside,4
+346,01/10/2025,Chicken Wings,Salads,6,33.21,Cash,Mall,2
+347,23/09/2024,Coke,Drinks,1,33.67,Card,Downtown,3
+348,26/12/2025,Orange Juice,Desserts,4,28.4,Card,West End,3
+349,09/08/2025,Iced Tea,Wraps,10,35.76,Card,Mall,
+350,27/07/2023,Orange Juice,Desserts,1,34.18,Card,Riverside,
+351,29/04/2026,Cheeseburger,Burger,6,19.9,Card,Eastside,3
+352,03/02/2024,Fries,Burger,5,36.87,MobileMoney,Downtown,3
+353,01/07/2025,Fries,Desserts,5,8.95,MobileMoney,Mall,1
+354,12/08/2025,Cheeseburger,Wraps,8,22.56,Card,Airport,4
+355,26/12/2025,Iced Tea,Sides,6,20.24,Card,Uptown,4
+356,05/09/2024,Chicken Wings,Salads,6,36.75,MobileMoney,Riverside,3
+357,03/07/2023,Pepperoni Pizza,Sides,2,19.69,Card,Uptown,
+358,12/02/2025,Veggie Burger,Burger,9,36.77,Card,West End,1
+359,27/10/2026,Chicken Wings,Desserts,7,34.95,Card,Uptown,1
+360,30/11/2025,Chicken Wings,Sides,7,18.46,Cash,West End,5
+361,06/02/2024,Coke,Wraps,6,15.63,Card,Eastside,5
+362,19/05/2023,Chocolate Shake,Wraps,4,13.59,Card,Mall,1
+363,05/10/2023,Fries,Desserts,4,5.81,Cash,Downtown,4
+364,26/06/2025,Iced Tea,Desserts,2,2.35,MobileMoney,Uptown,2
+365,16/01/2023,Iced Tea,Wraps,7,30.25,Cash,Mall,1
+366,25/02/2024,Veggie Burger,Pizza,10,35.49,Cash,Mall,1
+367,23/01/2025,Cheeseburger,Drinks,6,7.61,Cash,Uptown,3
+368,21/05/2026,Iced Tea,Salads,9,22.2,Cash,Downtown,
+369,20/04/2023,Iced Tea,Desserts,2,1.48,Cash,Downtown,2
+370,08/12/2026,Coke,Salads,7,2.21,MobileMoney,Uptown,4
+371,23/12/2025,Fries,Salads,1,34.22,Cash,Downtown,3
+372,08/01/2026,Fries,Desserts,3,8.48,Cash,Uptown,
+373,29/03/2026,Margherita Pizza,Drinks,5,8.44,MobileMoney,Downtown,3
+374,06/12/2026,Pepperoni Pizza,Desserts,2,35.39,MobileMoney,Eastside,1
+375,10/05/2026,Cheeseburger,Salads,5,12.88,Cash,Mall,3
+376,08/06/2026,Coke,Pizza,4,18.87,MobileMoney,West End,4
+377,04/02/2026,Fries,Wraps,3,9.33,Card,Airport,1
+378,09/01/2024,Chocolate Shake,Burger,4,17.62,MobileMoney,Mall,2
+379,18/11/2025,Margherita Pizza,Pizza,1,10.34,MobileMoney,West End,4
+380,26/03/2024,Coke,Drinks,10,1.13,Cash,Airport,4
+381,19/08/2023,Pepperoni Pizza,Salads,10,12.78,MobileMoney,Airport,
+382,29/12/2025,Iced Tea,Pizza,10,4.45,Card,Downtown,5
+383,11/03/2023,Cheeseburger,Pizza,9,13.66,Card,Airport,5
+384,30/03/2025,Fries,Desserts,3,27.46,Cash,Airport,2
+385,30/05/2023,Veggie Burger,Desserts,6,30.66,Cash,Airport,3
+386,26/06/2023,Cheeseburger,Wraps,1,20.17,MobileMoney,Riverside,3
+387,20/04/2024,Chocolate Shake,Drinks,2,36.24,MobileMoney,Riverside,5
+388,28/03/2026,Fries,Desserts,1,4.35,Cash,Eastside,5
+389,01/11/2025,Coke,Pizza,6,6.77,MobileMoney,Riverside,4
+390,18/12/2023,Margherita Pizza,Wraps,3,33.06,Cash,Eastside,
+391,20/03/2023,Veggie Burger,Drinks,7,9.22,Cash,Mall,5
+392,04/07/2026,Coke,Wraps,7,32.42,Cash,Mall,2
+393,06/10/2024,Fries,Desserts,3,9.48,MobileMoney,Airport,4
+394,04/06/2023,Coke,Desserts,8,19.27,MobileMoney,West End,5
+395,19/08/2025,Cheeseburger,Drinks,9,31.54,Cash,Airport,2
+396,26/02/2023,Veggie Burger,Salads,3,5.71,MobileMoney,Airport,2
+397,06/11/2026,Iced Tea,Wraps,6,11.59,Cash,Downtown,3
+398,14/08/2023,Margherita Pizza,Wraps,4,38.97,MobileMoney,Airport,
+399,27/06/2024,Cheeseburger,Burger,3,14.19,Cash,Downtown,4
+400,22/11/2025,Fries,Desserts,3,6.97,Card,West End,4
+401,20/05/2026,Fries,Pizza,7,1.39,Cash,Mall,5
+402,16/09/2024,Orange Juice,Wraps,2,15.18,MobileMoney,Riverside,2
+403,25/11/2023,Coke,Burger,6,24.59,Cash,Riverside,4
+404,23/02/2023,Margherita Pizza,Pizza,2,28.5,Card,Eastside,4
+405,11/07/2023,Fries,Drinks,1,10.05,Cash,Downtown,5
+406,27/11/2024,Pepperoni Pizza,Desserts,7,22.9,Cash,Riverside,4
+407,09/11/2026,Cheeseburger,Desserts,1,16.32,Cash,Eastside,3
+408,10/02/2024,Veggie Burger,Burger,7,13.03,Cash,Uptown,1
+409,20/11/2026,Chocolate Shake,Sides,1,10.41,Card,Riverside,
+410,26/10/2024,Chocolate Shake,Desserts,3,5.59,MobileMoney,Uptown,5
+411,03/01/2024,Orange Juice,Sides,9,32.66,Card,Airport,3
+412,07/06/2024,Fries,Desserts,5,2.61,Cash,Mall,1
+413,13/05/2026,Orange Juice,Sides,1,31.55,Cash,Airport,2
+414,30/11/2023,Fries,Pizza,8,11.62,MobileMoney,Uptown,1
+415,25/02/2026,Coke,Sides,4,31.49,MobileMoney,West End,
+416,16/09/2024,Pepperoni Pizza,Pizza,3,8.97,Card,Eastside,
+417,30/06/2025,Veggie Burger,Salads,8,39.09,Card,Downtown,1
+418,04/08/2024,Fries,Drinks,4,31.15,Cash,Uptown,1
+419,29/11/2025,Iced Tea,Drinks,2,30.18,MobileMoney,West End,1
+420,12/03/2025,Pepperoni Pizza,Desserts,5,20.04,Cash,Airport,2
+421,05/05/2024,Fries,Sides,5,35.64,MobileMoney,Riverside,4
+422,06/03/2026,Chocolate Shake,Salads,4,25.11,MobileMoney,Mall,
+423,04/04/2025,Pepperoni Pizza,Sides,10,30.27,Cash,Mall,3
+424,14/08/2025,Veggie Burger,Drinks,2,39.09,Card,Downtown,1
+425,18/01/2025,Margherita Pizza,Sides,3,19.3,Card,West End,
+426,19/08/2023,Cheeseburger,Wraps,2,39.5,Cash,Uptown,3
+427,25/07/2025,Chocolate Shake,Drinks,2,15.35,MobileMoney,Eastside,5
+428,14/01/2024,Chicken Wings,Desserts,5,10.02,Cash,Downtown,4
+429,10/10/2023,Orange Juice,Wraps,4,39.37,Cash,Uptown,2
+430,29/01/2026,Iced Tea,Salads,1,13.91,Card,Downtown,4
+431,16/06/2023,Cheeseburger,Desserts,4,19.1,Card,Downtown,3
+432,08/02/2025,Margherita Pizza,Salads,6,12.28,MobileMoney,Downtown,2
+433,04/11/2024,Orange Juice,Drinks,2,39.18,MobileMoney,Uptown,
+434,30/08/2024,Coke,Wraps,6,16.01,MobileMoney,Uptown,5
+435,23/01/2026,Chocolate Shake,Salads,5,12.52,Card,West End,1
+436,28/06/2024,Veggie Burger,Drinks,4,2.69,MobileMoney,Eastside,5
+437,26/11/2026,Chocolate Shake,Burger,1,18.78,Cash,West End,3
+438,21/03/2023,Veggie Burger,Burger,1,38.76,MobileMoney,Downtown,4
+439,26/09/2024,Margherita Pizza,Salads,6,31.21,MobileMoney,Mall,3
+440,17/01/2026,Chicken Wings,Wraps,5,15.82,MobileMoney,Uptown,
+441,12/04/2026,Iced Tea,Salads,1,12.18,Cash,Airport,3
+442,02/03/2023,Iced Tea,Wraps,3,20.06,Card,Uptown,
+443,23/09/2025,Fries,Burger,3,6.13,Cash,Downtown,4
+444,09/02/2023,Orange Juice,Desserts,7,14.45,MobileMoney,Mall,5
+445,11/04/2026,Iced Tea,Desserts,5,13.95,Card,Downtown,2
+446,15/09/2024,Coke,Pizza,8,32.27,Cash,Uptown,2
+447,09/09/2026,Coke,Salads,1,22.23,Card,Uptown,3
+448,25/01/2025,Pepperoni Pizza,Drinks,7,9.43,Card,Downtown,5
+449,27/11/2026,Coke,Pizza,2,37.81,Card,Airport,5
+450,19/10/2026,Coke,Salads,1,27.21,MobileMoney,Riverside,
+451,14/11/2026,Veggie Burger,Pizza,3,34.31,Card,Downtown,1
+452,04/05/2023,Veggie Burger,Drinks,3,19.51,MobileMoney,Eastside,
+453,10/01/2024,Fries,Drinks,2,20.15,Card,Mall,
+454,05/11/2023,Chicken Wings,Wraps,4,9.62,Cash,West End,1
+455,07/07/2026,Iced Tea,Desserts,7,18.47,Card,Airport,4
+456,03/02/2025,Veggie Burger,Wraps,3,35.84,Cash,Mall,4
+457,12/04/2026,Fries,Burger,9,16.25,MobileMoney,Uptown,3
+458,23/11/2026,Iced Tea,Wraps,6,15.66,Cash,Riverside,5
+459,19/05/2025,Pepperoni Pizza,Wraps,9,8.6,Cash,Riverside,1
+460,29/08/2025,Fries,Drinks,6,34.03,Card,Downtown,5
+461,18/07/2026,Chicken Wings,Drinks,8,23.06,Card,Downtown,2
+462,10/08/2024,Iced Tea,Drinks,6,10.26,MobileMoney,West End,4
+463,07/08/2023,Chocolate Shake,Salads,2,37.42,MobileMoney,Airport,2
+464,23/10/2023,Orange Juice,Wraps,1,4.16,Cash,Uptown,3
+465,19/05/2026,Cheeseburger,Pizza,9,19.72,Card,West End,1
+466,06/10/2026,Fries,Drinks,5,17.76,MobileMoney,Downtown,1
+467,24/10/2026,Cheeseburger,Drinks,7,28.55,Card,Mall,4
+468,03/08/2024,Chicken Wings,Salads,4,17.0,Card,Uptown,5
+469,12/05/2026,Coke,Desserts,10,36.34,MobileMoney,Uptown,2
+470,09/01/2026,Fries,Pizza,2,34.78,Card,Eastside,2
+471,06/04/2023,Orange Juice,Pizza,9,33.05,Card,Eastside,4
+472,24/07/2023,Orange Juice,Pizza,9,29.47,Card,Downtown,3
+473,21/08/2023,Pepperoni Pizza,Drinks,1,30.22,Card,West End,1
+474,09/07/2026,Fries,Burger,1,4.43,MobileMoney,West End,2
+475,28/08/2024,Fries,Drinks,9,1.53,Cash,West End,3
+476,30/04/2026,Coke,Wraps,8,32.53,Cash,Eastside,3
+477,02/04/2024,Pepperoni Pizza,Salads,2,28.83,MobileMoney,Downtown,4
+478,24/08/2023,Chocolate Shake,Drinks,7,20.29,Cash,West End,1
+479,01/02/2024,Margherita Pizza,Pizza,7,10.87,Cash,Uptown,5
+480,08/07/2026,Chicken Wings,Sides,4,39.45,Cash,Mall,1
+481,07/07/2024,Coke,Pizza,4,4.07,Cash,Riverside,3
+482,10/02/2024,Chocolate Shake,Desserts,9,37.2,Cash,Downtown,5
+483,20/07/2025,Pepperoni Pizza,Salads,2,9.62,Card,West End,3
+484,19/08/2025,Iced Tea,Pizza,2,31.81,Card,Eastside,
+485,27/05/2023,Orange Juice,Salads,6,29.84,Card,Riverside,
+486,14/05/2023,Veggie Burger,Desserts,1,18.31,Cash,Downtown,5
+487,29/10/2026,Chocolate Shake,Sides,1,39.28,Cash,Riverside,
+488,15/07/2024,Cheeseburger,Wraps,2,31.01,Card,West End,1
+489,01/02/2023,Chicken Wings,Sides,4,3.71,Cash,West End,1
+490,04/11/2024,Veggie Burger,Burger,7,10.34,MobileMoney,Riverside,5
+491,13/03/2025,Cheeseburger,Pizza,2,18.75,Card,Downtown,2
+492,02/11/2026,Pepperoni Pizza,Wraps,2,37.21,MobileMoney,Airport,3
+493,23/01/2024,Iced Tea,Wraps,2,32.94,Card,Downtown,
+494,12/11/2024,Veggie Burger,Desserts,10,36.09,MobileMoney,Uptown,1
+495,11/12/2026,Pepperoni Pizza,Sides,3,33.32,Card,Airport,5
+496,20/10/2023,Veggie Burger,Desserts,3,23.59,MobileMoney,Mall,
+497,07/12/2025,Margherita Pizza,Wraps,2,15.05,Card,Downtown,
+498,24/10/2025,Chicken Wings,Sides,6,32.3,Cash,Mall,5
+499,19/11/2026,Chocolate Shake,Sides,10,23.76,Card,Airport,5
+500,13/08/2024,Orange Juice,Salads,1,19.9,MobileMoney,Mall,2
+501,29/11/2023,Orange Juice,Sides,2,28.06,Card,West End,1
+502,15/07/2026,Chicken Wings,Drinks,1,4.44,MobileMoney,Airport,
+503,26/12/2023,Orange Juice,Sides,6,39.72,Cash,West End,5
+504,07/05/2025,Margherita Pizza,Pizza,9,38.7,MobileMoney,Riverside,1
+505,01/07/2023,Chicken Wings,Sides,9,1.48,MobileMoney,Downtown,1
+506,17/04/2025,Orange Juice,Salads,3,32.86,Card,Airport,5
+507,09/12/2025,Cheeseburger,Burger,1,21.78,MobileMoney,Airport,3
+508,17/06/2023,Orange Juice,Drinks,8,19.95,Card,Uptown,3
+509,01/08/2025,Chocolate Shake,Sides,4,4.93,Cash,Mall,
+510,16/10/2025,Cheeseburger,Sides,7,5.65,MobileMoney,Riverside,3
+511,06/11/2025,Iced Tea,Salads,10,14.13,Cash,Downtown,3
+512,15/01/2025,Fries,Desserts,5,17.51,Card,Uptown,
+513,07/06/2023,Iced Tea,Desserts,3,24.48,MobileMoney,Downtown,3
+514,23/09/2026,Fries,Drinks,10,22.41,Card,Mall,3
+515,09/05/2026,Iced Tea,Burger,5,6.8,MobileMoney,Uptown,3
+516,09/08/2024,Cheeseburger,Desserts,5,12.71,MobileMoney,Riverside,4
+517,27/08/2025,Orange Juice,Salads,5,8.3,MobileMoney,Downtown,5
+518,23/04/2023,Fries,Burger,9,3.9,Cash,Mall,1
+519,28/11/2025,Iced Tea,Wraps,6,3.09,Cash,Downtown,2
+520,14/09/2024,Cheeseburger,Wraps,3,30.73,Card,Airport,5
+521,15/11/2024,Veggie Burger,Sides,9,15.34,MobileMoney,Uptown,
+522,09/10/2023,Chicken Wings,Sides,3,26.76,Card,West End,4
+523,03/07/2026,Orange Juice,Burger,6,22.53,Card,Riverside,5
+524,28/03/2025,Cheeseburger,Salads,2,6.06,Card,West End,2
+525,04/09/2023,Margherita Pizza,Salads,9,7.7,Cash,Downtown,2
+526,10/09/2024,Iced Tea,Drinks,7,31.88,Cash,Eastside,
+527,05/09/2025,Chicken Wings,Desserts,4,20.0,Card,West End,1
+528,30/08/2025,Veggie Burger,Sides,3,34.87,Cash,Downtown,3
+529,28/12/2023,Chocolate Shake,Drinks,5,33.59,MobileMoney,Uptown,2
+530,07/02/2025,Cheeseburger,Wraps,5,31.82,MobileMoney,Riverside,3
+531,25/02/2025,Veggie Burger,Burger,9,15.99,Cash,West End,1
+532,16/04/2025,Margherita Pizza,Salads,7,6.45,MobileMoney,Mall,4
+533,23/03/2024,Fries,Wraps,10,4.85,MobileMoney,Eastside,4
+534,04/02/2023,Fries,Salads,2,15.36,MobileMoney,Mall,3
+535,06/09/2025,Veggie Burger,Wraps,5,38.31,MobileMoney,Downtown,1
+536,24/06/2024,Veggie Burger,Desserts,1,28.83,MobileMoney,Uptown,4
+537,01/09/2025,Chocolate Shake,Drinks,5,27.08,Cash,Mall,2
+538,27/11/2025,Margherita Pizza,Burger,8,32.3,Card,Uptown,3
+539,04/12/2024,Chocolate Shake,Desserts,5,32.55,Cash,Riverside,4
+540,28/06/2023,Pepperoni Pizza,Desserts,10,21.75,MobileMoney,Airport,2
+541,21/05/2023,Coke,Sides,4,27.17,Cash,Airport,3
+542,17/05/2023,Chocolate Shake,Desserts,2,9.6,Cash,Riverside,3
+543,17/08/2025,Chicken Wings,Burger,5,23.25,Cash,Eastside,5
+544,19/01/2026,Coke,Sides,10,2.52,Cash,Riverside,4
+545,01/05/2023,Cheeseburger,Pizza,2,26.79,MobileMoney,Riverside,5
+546,22/05/2024,Orange Juice,Desserts,6,11.42,Card,Uptown,2
+547,20/06/2025,Orange Juice,Sides,6,7.14,Card,Uptown,3
+548,22/10/2025,Iced Tea,Burger,5,20.45,Cash,Downtown,3
+549,25/09/2024,Coke,Salads,1,9.24,MobileMoney,Mall,
+550,04/01/2024,Orange Juice,Wraps,6,5.25,Cash,West End,4
+551,13/09/2023,Chicken Wings,Sides,8,38.28,Cash,Airport,1
+552,28/12/2026,Orange Juice,Burger,1,15.28,Cash,Airport,2
+553,24/09/2023,Fries,Salads,2,6.0,Card,Eastside,5
+554,24/06/2026,Iced Tea,Pizza,3,18.03,Card,Eastside,2
+555,29/04/2026,Orange Juice,Burger,2,3.88,Card,Eastside,1
+556,07/07/2025,Iced Tea,Burger,9,31.31,Card,West End,5
+557,01/02/2023,Cheeseburger,Burger,4,7.19,MobileMoney,Airport,4
+558,03/06/2025,Chicken Wings,Drinks,9,16.34,MobileMoney,Downtown,5
+559,14/09/2024,Pepperoni Pizza,Drinks,4,34.5,Cash,West End,
+560,12/09/2023,Chocolate Shake,Pizza,8,28.31,Cash,West End,3
+561,24/04/2026,Chocolate Shake,Wraps,4,10.03,Card,Mall,2
+562,30/04/2024,Pepperoni Pizza,Desserts,2,15.86,Cash,Airport,2
+563,08/03/2026,Orange Juice,Desserts,6,30.28,Cash,West End,1
+564,05/08/2026,Veggie Burger,Burger,3,36.18,Cash,Uptown,2
+565,14/12/2023,Orange Juice,Salads,10,10.13,Card,Downtown,3
+566,06/03/2024,Chicken Wings,Wraps,6,27.39,Card,West End,3
+567,19/05/2024,Orange Juice,Sides,5,30.22,MobileMoney,Riverside,4
+568,21/02/2026,Veggie Burger,Sides,7,38.57,Card,Eastside,3
+569,22/06/2023,Coke,Wraps,6,13.84,Cash,Riverside,2
+570,23/11/2023,Pepperoni Pizza,Drinks,8,24.3,Card,Eastside,2
+571,07/11/2026,Veggie Burger,Desserts,2,22.21,MobileMoney,Uptown,5
+572,07/10/2024,Coke,Salads,4,11.06,Card,Mall,3
+573,30/04/2024,Chocolate Shake,Wraps,10,16.56,MobileMoney,West End,3
+574,04/08/2023,Margherita Pizza,Wraps,3,21.8,Card,Riverside,
+575,21/02/2025,Pepperoni Pizza,Desserts,2,1.89,Card,Uptown,2
+576,04/01/2024,Chicken Wings,Burger,8,11.28,Card,West End,2
+577,08/06/2023,Iced Tea,Desserts,1,30.11,Cash,Mall,2
+578,22/07/2026,Fries,Pizza,7,1.77,MobileMoney,Riverside,3
+579,20/12/2026,Pepperoni Pizza,Salads,10,7.74,Card,Riverside,4
+580,04/02/2024,Pepperoni Pizza,Drinks,1,14.02,Card,Riverside,1
+581,01/07/2025,Margherita Pizza,Drinks,7,5.7,MobileMoney,Mall,
+582,27/03/2026,Fries,Desserts,2,29.66,MobileMoney,Uptown,4
+583,29/05/2024,Cheeseburger,Burger,8,15.31,Card,Mall,3
+584,25/08/2023,Margherita Pizza,Wraps,8,25.37,MobileMoney,Riverside,3
+585,29/04/2024,Cheeseburger,Wraps,5,9.56,Cash,West End,1
+586,12/01/2026,Chicken Wings,Salads,4,12.71,Card,Riverside,3
+587,03/08/2023,Orange Juice,Wraps,10,27.97,Cash,Airport,2
+588,07/07/2026,Coke,Wraps,8,10.07,Cash,Eastside,4
+589,06/11/2024,Pepperoni Pizza,Pizza,6,30.47,Cash,West End,3
+590,05/02/2023,Pepperoni Pizza,Wraps,7,12.01,Cash,Downtown,2
+591,30/11/2024,Chocolate Shake,Sides,3,7.62,MobileMoney,Eastside,2
+592,05/10/2025,Fries,Sides,7,28.27,MobileMoney,Uptown,
+593,24/11/2026,Veggie Burger,Drinks,6,11.35,Card,Uptown,3
+594,03/08/2023,Chicken Wings,Drinks,7,21.54,MobileMoney,Downtown,3
+595,29/03/2025,Veggie Burger,Drinks,7,20.49,MobileMoney,Mall,
+596,27/04/2025,Margherita Pizza,Desserts,5,18.58,Card,West End,4
+597,01/03/2025,Margherita Pizza,Pizza,7,34.98,Cash,Airport,1
+598,26/03/2023,Fries,Pizza,3,13.02,Card,Downtown,5
+599,04/10/2023,Orange Juice,Sides,2,17.98,Cash,Downtown,5
+600,07/08/2023,Iced Tea,Burger,7,23.65,Card,West End,1
+601,10/10/2023,Coke,Salads,2,17.51,Cash,Airport,5
+602,01/10/2024,Coke,Wraps,2,34.78,Cash,Mall,2
+603,24/06/2026,Margherita Pizza,Drinks,3,19.3,MobileMoney,Airport,5
+604,06/07/2025,Fries,Salads,9,32.32,Cash,Airport,5
+605,07/10/2023,Margherita Pizza,Salads,1,4.98,MobileMoney,Airport,5
+606,11/02/2023,Cheeseburger,Salads,4,20.53,MobileMoney,Downtown,2
+607,15/02/2025,Fries,Salads,8,36.33,MobileMoney,Downtown,2
+608,12/02/2024,Chocolate Shake,Burger,2,5.08,Card,Uptown,1
+609,25/03/2024,Chocolate Shake,Drinks,10,20.73,Card,Eastside,3
+610,19/02/2026,Coke,Pizza,8,32.52,MobileMoney,Riverside,4
+611,30/09/2023,Pepperoni Pizza,Pizza,7,24.02,Card,Riverside,4
+612,17/05/2024,Margherita Pizza,Desserts,5,16.26,Cash,Riverside,5
+613,29/07/2025,Orange Juice,Desserts,3,2.99,Card,Riverside,2
+614,01/01/2026,Margherita Pizza,Drinks,9,16.38,MobileMoney,Eastside,3
+615,11/07/2025,Iced Tea,Burger,2,30.51,Cash,Airport,5
+616,11/08/2026,Veggie Burger,Desserts,10,19.23,MobileMoney,Riverside,2
+617,05/12/2025,Pepperoni Pizza,Desserts,8,14.28,MobileMoney,Mall,5
+618,07/07/2024,Iced Tea,Desserts,9,3.18,Cash,West End,3
+619,04/04/2024,Pepperoni Pizza,Wraps,6,23.15,Cash,Downtown,5
+620,07/10/2025,Orange Juice,Pizza,8,36.22,Card,Eastside,4
+621,31/10/2024,Pepperoni Pizza,Desserts,7,25.92,MobileMoney,Uptown,
+622,21/10/2026,Coke,Drinks,7,17.52,MobileMoney,Uptown,1
+623,04/07/2025,Iced Tea,Wraps,9,21.03,Cash,West End,1
+624,14/07/2026,Chocolate Shake,Desserts,5,33.76,MobileMoney,West End,2
+625,19/03/2025,Orange Juice,Pizza,1,22.87,Card,Airport,5
+626,19/07/2025,Fries,Sides,4,23.61,Cash,Downtown,5
+627,08/07/2024,Margherita Pizza,Salads,5,2.13,Cash,Downtown,1
+628,07/11/2025,Chicken Wings,Pizza,1,35.46,MobileMoney,West End,5
+629,05/11/2025,Orange Juice,Burger,9,5.03,Cash,West End,3
+630,30/07/2026,Fries,Pizza,6,28.35,Card,West End,
+631,03/05/2023,Iced Tea,Drinks,2,28.99,Cash,Uptown,5
+632,14/10/2026,Veggie Burger,Wraps,1,8.36,Cash,Riverside,
+633,25/08/2023,Margherita Pizza,Salads,8,38.35,Card,Downtown,
+634,25/08/2025,Chocolate Shake,Desserts,5,6.99,Card,Riverside,5
+635,01/02/2026,Pepperoni Pizza,Sides,3,15.89,MobileMoney,Airport,1
+636,27/08/2024,Chocolate Shake,Desserts,5,5.04,MobileMoney,Downtown,4
+637,02/03/2026,Pepperoni Pizza,Burger,5,4.03,Cash,Downtown,2
+638,24/05/2024,Fries,Sides,9,3.59,MobileMoney,Downtown,5
+639,02/09/2026,Coke,Desserts,4,3.77,Card,Downtown,5
+640,10/11/2023,Fries,Drinks,8,7.38,MobileMoney,Airport,4
+641,13/06/2026,Chicken Wings,Desserts,3,4.6,Cash,Downtown,1
+642,02/03/2024,Fries,Pizza,10,20.25,MobileMoney,Mall,2
+643,08/09/2025,Iced Tea,Salads,7,9.13,MobileMoney,Eastside,3
+644,01/10/2026,Veggie Burger,Wraps,9,15.69,Card,West End,5
+645,29/06/2024,Fries,Wraps,10,6.85,MobileMoney,Uptown,
+646,08/02/2026,Cheeseburger,Burger,8,34.56,Cash,West End,2
+647,11/11/2026,Fries,Drinks,6,24.96,Cash,Downtown,3
+648,29/04/2024,Margherita Pizza,Salads,5,23.36,MobileMoney,West End,1
+649,23/04/2025,Fries,Sides,5,18.13,Card,Riverside,1
+650,05/06/2026,Margherita Pizza,Pizza,1,22.68,Cash,Downtown,4
+651,04/10/2026,Margherita Pizza,Burger,5,29.31,Card,Mall,1
+652,18/07/2024,Fries,Sides,10,5.29,MobileMoney,Downtown,5
+653,17/06/2024,Chocolate Shake,Pizza,7,24.09,Card,Uptown,3
+654,14/11/2025,Cheeseburger,Burger,9,25.8,Cash,Airport,2
+655,17/10/2023,Chicken Wings,Desserts,7,11.96,Card,Airport,5
+656,28/09/2024,Coke,Sides,2,37.41,MobileMoney,West End,4
+657,02/09/2024,Cheeseburger,Desserts,1,30.24,Cash,Riverside,2
+658,01/01/2023,Fries,Burger,10,4.94,Card,Airport,3
+659,20/01/2024,Chocolate Shake,Salads,6,35.31,MobileMoney,Eastside,5
+660,26/12/2025,Margherita Pizza,Drinks,1,32.09,MobileMoney,Downtown,3
+661,16/06/2023,Fries,Pizza,7,12.49,MobileMoney,Downtown,
+662,21/01/2024,Coke,Salads,7,20.82,MobileMoney,Eastside,
+663,24/01/2026,Iced Tea,Sides,10,7.95,MobileMoney,Mall,1
+664,25/01/2023,Orange Juice,Desserts,2,12.39,Card,Uptown,2
+665,29/04/2023,Chicken Wings,Wraps,5,17.71,Cash,West End,3
+666,02/10/2023,Fries,Burger,3,4.48,Cash,Riverside,5
+667,13/10/2026,Iced Tea,Wraps,6,14.43,Card,West End,2
+668,25/07/2023,Pepperoni Pizza,Burger,9,26.09,Card,Uptown,1
+669,20/10/2026,Chocolate Shake,Pizza,5,28.0,Card,Downtown,2
+670,05/10/2023,Pepperoni Pizza,Wraps,9,6.03,MobileMoney,West End,
+671,17/05/2023,Pepperoni Pizza,Burger,6,34.74,MobileMoney,Uptown,3
+672,24/07/2025,Pepperoni Pizza,Salads,10,24.12,Cash,Downtown,
+673,02/06/2023,Pepperoni Pizza,Drinks,2,27.11,Card,Mall,1
+674,08/04/2025,Iced Tea,Desserts,4,17.15,MobileMoney,Downtown,3
+675,05/04/2023,Orange Juice,Desserts,4,11.89,Cash,West End,4
+676,25/11/2025,Coke,Desserts,1,6.64,Cash,Uptown,4
+677,30/03/2023,Veggie Burger,Pizza,6,12.53,MobileMoney,Riverside,5
+678,09/11/2023,Orange Juice,Sides,4,39.05,Cash,West End,1
+679,06/05/2026,Pepperoni Pizza,Drinks,9,31.82,Cash,Mall,
+680,28/02/2026,Coke,Sides,1,13.37,Cash,Uptown,2
+681,17/04/2024,Chicken Wings,Desserts,2,25.12,Card,Eastside,5
+682,22/01/2025,Fries,Wraps,9,12.94,Cash,Mall,1
+683,19/04/2025,Orange Juice,Drinks,3,19.53,Card,Eastside,4
+684,21/11/2025,Iced Tea,Drinks,3,10.42,MobileMoney,Downtown,1
+685,27/01/2023,Veggie Burger,Burger,7,8.15,Cash,Mall,3
+686,19/05/2023,Orange Juice,Desserts,9,23.78,Cash,Mall,1
+687,24/01/2025,Pepperoni Pizza,Sides,6,36.4,MobileMoney,Riverside,4
+688,21/04/2024,Iced Tea,Drinks,9,32.8,MobileMoney,Mall,3
+689,16/07/2023,Margherita Pizza,Pizza,2,35.44,Cash,Eastside,2
+690,10/10/2024,Orange Juice,Pizza,2,36.02,Card,Riverside,4
+691,10/09/2026,Pepperoni Pizza,Salads,8,2.48,MobileMoney,Eastside,2
+692,16/10/2024,Fries,Burger,6,19.1,MobileMoney,Riverside,4
+693,21/03/2026,Coke,Desserts,4,36.63,Cash,Airport,2
+694,24/07/2024,Margherita Pizza,Desserts,8,13.01,MobileMoney,Downtown,2
+695,26/06/2026,Fries,Wraps,6,21.88,MobileMoney,West End,5
+696,06/08/2025,Orange Juice,Salads,1,11.0,MobileMoney,Eastside,1
+697,21/05/2025,Fries,Pizza,10,5.36,Cash,Mall,3
+698,22/12/2024,Orange Juice,Drinks,2,33.1,Card,Mall,5
+699,19/05/2025,Margherita Pizza,Sides,7,25.83,Cash,Airport,5
+700,18/10/2024,Orange Juice,Burger,1,4.79,Card,Eastside,2
+701,19/09/2026,Coke,Wraps,3,26.91,MobileMoney,West End,1
+702,25/10/2023,Fries,Sides,4,15.35,Card,Eastside,2
+703,25/10/2024,Iced Tea,Drinks,2,36.31,Cash,Airport,
+704,10/10/2023,Coke,Drinks,1,11.34,MobileMoney,Mall,5
+705,17/10/2024,Iced Tea,Desserts,1,20.07,MobileMoney,Mall,1
+706,20/03/2023,Fries,Wraps,1,29.81,Card,Eastside,5
+707,28/12/2025,Pepperoni Pizza,Sides,5,5.16,MobileMoney,Eastside,1
+708,01/07/2026,Coke,Pizza,9,17.31,Cash,Uptown,5
+709,12/10/2025,Iced Tea,Wraps,6,34.23,Card,Uptown,4
+710,15/06/2023,Veggie Burger,Wraps,3,16.8,Card,Uptown,5
+711,05/02/2024,Fries,Pizza,2,32.01,Cash,West End,5
+712,06/06/2026,Iced Tea,Salads,10,23.59,Cash,Riverside,2
+713,15/06/2025,Pepperoni Pizza,Wraps,6,7.14,Card,Mall,3
+714,01/12/2024,Chicken Wings,Wraps,5,39.53,MobileMoney,Downtown,3
+715,10/09/2026,Pepperoni Pizza,Desserts,9,21.25,Card,Airport,1
+716,20/07/2026,Fries,Pizza,6,29.98,MobileMoney,Riverside,2
+717,11/07/2023,Cheeseburger,Sides,4,11.53,Card,Eastside,5
+718,01/04/2023,Veggie Burger,Wraps,8,37.73,Cash,Eastside,2
+719,04/01/2024,Iced Tea,Salads,8,15.73,Card,West End,5
+720,05/12/2026,Pepperoni Pizza,Pizza,10,33.14,Card,Riverside,5
+721,27/05/2025,Cheeseburger,Drinks,6,8.94,Card,Mall,3
+722,23/07/2024,Chocolate Shake,Wraps,2,9.0,Card,Mall,4
+723,09/06/2025,Coke,Salads,5,35.89,Cash,Uptown,5
+724,28/03/2025,Veggie Burger,Burger,10,36.24,Card,Downtown,2
+725,09/09/2023,Margherita Pizza,Drinks,8,17.85,Card,Airport,5
+726,02/12/2025,Fries,Pizza,5,4.17,Cash,Mall,4
+727,16/02/2024,Coke,Burger,10,12.5,MobileMoney,Uptown,4
+728,06/04/2023,Cheeseburger,Desserts,7,6.6,Card,Uptown,2
+729,06/11/2024,Fries,Burger,5,38.34,Cash,Uptown,3
+730,21/05/2023,Fries,Pizza,8,10.31,Card,Uptown,1
+731,04/08/2026,Coke,Sides,10,8.07,Cash,Riverside,3
+732,03/04/2026,Veggie Burger,Salads,8,27.83,Cash,Downtown,2
+733,26/06/2025,Coke,Salads,1,2.12,MobileMoney,Eastside,3
+734,07/10/2026,Veggie Burger,Desserts,5,36.99,Cash,West End,2
+735,17/01/2023,Fries,Burger,3,4.94,Cash,West End,3
+736,21/08/2023,Orange Juice,Drinks,9,17.57,Card,West End,4
+737,15/09/2023,Pepperoni Pizza,Wraps,4,39.4,Cash,Downtown,1
+738,07/10/2024,Chocolate Shake,Pizza,5,35.99,MobileMoney,Riverside,3
+739,01/07/2026,Coke,Burger,1,15.09,Cash,Riverside,5
+740,20/02/2024,Iced Tea,Drinks,2,21.79,MobileMoney,Airport,
+741,11/08/2026,Orange Juice,Wraps,3,32.55,Cash,Riverside,2
+742,30/11/2026,Margherita Pizza,Pizza,10,23.2,Card,West End,4
+743,04/03/2023,Veggie Burger,Drinks,10,28.41,MobileMoney,Downtown,1
+744,19/05/2023,Margherita Pizza,Burger,7,34.43,MobileMoney,Downtown,1
+745,24/04/2025,Cheeseburger,Wraps,5,19.8,MobileMoney,West End,3
+746,02/12/2024,Orange Juice,Drinks,8,24.93,MobileMoney,West End,3
+747,22/12/2023,Chocolate Shake,Burger,8,23.28,Card,Airport,
+748,17/03/2023,Chicken Wings,Wraps,9,11.87,Card,Uptown,4
+749,18/03/2025,Cheeseburger,Pizza,9,29.27,Cash,Mall,
+750,12/08/2025,Chocolate Shake,Desserts,10,26.06,MobileMoney,Mall,2
+751,12/09/2026,Cheeseburger,Sides,9,23.7,Cash,Downtown,4
+752,23/06/2023,Cheeseburger,Drinks,10,36.97,MobileMoney,West End,2
+753,11/05/2026,Chocolate Shake,Sides,6,31.03,Cash,Uptown,5
+754,25/10/2025,Chocolate Shake,Salads,3,38.0,Cash,Mall,3
+755,17/10/2024,Coke,Wraps,9,37.47,MobileMoney,Mall,1
+756,06/01/2026,Veggie Burger,Salads,7,34.08,Cash,Uptown,1
+757,14/09/2026,Chicken Wings,Wraps,7,25.27,MobileMoney,Riverside,2
+758,03/12/2026,Fries,Drinks,4,28.96,MobileMoney,Airport,5
+759,30/10/2026,Pepperoni Pizza,Burger,9,11.41,Card,Riverside,
+760,21/02/2026,Margherita Pizza,Burger,2,34.2,MobileMoney,Eastside,3
+761,16/01/2024,Chicken Wings,Drinks,5,36.83,Cash,Downtown,1
+762,13/10/2026,Pepperoni Pizza,Salads,6,30.33,Cash,Eastside,3
+763,04/02/2023,Margherita Pizza,Sides,1,12.4,MobileMoney,Mall,5
+764,09/02/2026,Pepperoni Pizza,Desserts,7,22.68,Cash,Riverside,3
+765,03/07/2026,Iced Tea,Salads,7,6.61,Card,Downtown,2
+766,07/03/2023,Pepperoni Pizza,Drinks,10,8.53,Cash,Airport,1
+767,04/07/2026,Chicken Wings,Wraps,3,14.63,Card,Mall,4
+768,22/10/2026,Iced Tea,Desserts,7,28.82,Cash,Uptown,3
+769,14/10/2024,Chocolate Shake,Pizza,5,18.54,Card,Downtown,3
+770,01/11/2026,Veggie Burger,Salads,8,19.41,Cash,Uptown,3
+771,24/07/2025,Iced Tea,Desserts,2,10.69,Cash,Airport,3
+772,11/01/2024,Coke,Burger,10,10.47,Cash,Mall,4
+773,11/03/2025,Fries,Wraps,6,35.03,Cash,Mall,2
+774,05/03/2025,Veggie Burger,Burger,5,31.91,Cash,Downtown,
+775,20/05/2023,Chicken Wings,Burger,9,5.56,MobileMoney,West End,1
+776,16/08/2024,Margherita Pizza,Wraps,10,19.3,Cash,Mall,
+777,10/07/2026,Chocolate Shake,Salads,3,20.44,Cash,West End,3
+778,05/09/2026,Orange Juice,Drinks,7,3.77,Card,Eastside,2
+779,11/03/2023,Margherita Pizza,Wraps,5,24.49,Cash,Eastside,2
+780,08/11/2025,Orange Juice,Pizza,9,11.78,Cash,Riverside,2
+781,28/12/2025,Iced Tea,Wraps,9,4.12,MobileMoney,Eastside,5
+782,21/03/2023,Chicken Wings,Pizza,3,36.74,Card,Riverside,3
+783,11/03/2023,Veggie Burger,Burger,8,20.58,Cash,Uptown,2
+784,04/12/2025,Coke,Sides,5,39.29,Cash,Mall,2
+785,17/04/2024,Cheeseburger,Salads,4,21.57,Card,Uptown,2
+786,19/12/2024,Orange Juice,Pizza,9,16.12,Card,Downtown,
+787,05/10/2024,Orange Juice,Pizza,8,19.3,Card,Uptown,2
+788,18/06/2026,Iced Tea,Wraps,5,28.39,MobileMoney,West End,1
+789,27/04/2025,Coke,Desserts,5,29.49,Cash,Uptown,3
+790,09/12/2023,Cheeseburger,Drinks,1,8.34,Cash,Airport,4
+791,27/09/2024,Chocolate Shake,Drinks,9,21.17,MobileMoney,Airport,2
+792,01/02/2026,Coke,Sides,9,24.7,Card,Riverside,3
+793,20/07/2023,Chicken Wings,Burger,8,15.16,Cash,Mall,2
+794,16/04/2024,Chocolate Shake,Salads,5,3.09,Cash,West End,4
+795,22/11/2024,Margherita Pizza,Drinks,3,8.84,MobileMoney,Downtown,3
+796,28/07/2024,Cheeseburger,Desserts,3,4.33,Cash,Downtown,5
+797,20/05/2026,Veggie Burger,Salads,2,27.51,Card,Downtown,3
+798,30/11/2024,Fries,Salads,2,24.79,Cash,West End,1
+799,21/09/2024,Margherita Pizza,Salads,10,23.7,MobileMoney,Uptown,1
+800,19/07/2026,Orange Juice,Salads,1,15.38,MobileMoney,Mall,4
+801,09/07/2023,Chicken Wings,Drinks,1,1.03,Cash,Uptown,3
+802,28/12/2023,Margherita Pizza,Wraps,8,33.85,Card,Airport,4
+803,28/02/2023,Margherita Pizza,Wraps,5,8.86,MobileMoney,Downtown,4
+804,13/03/2023,Fries,Drinks,5,20.17,Card,Eastside,3
+805,12/01/2025,Pepperoni Pizza,Burger,7,16.82,Cash,Uptown,
+806,31/07/2026,Pepperoni Pizza,Salads,6,25.77,Cash,Downtown,5
+807,04/04/2025,Cheeseburger,Burger,5,28.48,Cash,West End,1
+808,25/11/2024,Fries,Wraps,4,33.59,Cash,Downtown,5
+809,19/01/2026,Veggie Burger,Pizza,9,35.12,Cash,Downtown,1
+810,05/07/2024,Cheeseburger,Pizza,1,34.87,Cash,Mall,2
+811,07/02/2024,Iced Tea,Drinks,3,24.01,Card,Mall,1
+812,11/12/2023,Iced Tea,Wraps,9,6.3,Card,Mall,5
+813,12/04/2025,Chicken Wings,Sides,9,8.73,Cash,Eastside,
+814,07/05/2023,Coke,Burger,8,14.34,MobileMoney,Riverside,3
+815,03/08/2026,Orange Juice,Salads,10,3.98,MobileMoney,West End,3
+816,04/08/2023,Veggie Burger,Wraps,9,12.8,MobileMoney,Downtown,4
+817,22/09/2025,Margherita Pizza,Drinks,8,19.85,MobileMoney,Eastside,4
+818,08/11/2024,Margherita Pizza,Drinks,1,35.43,MobileMoney,Riverside,4
+819,14/03/2026,Iced Tea,Pizza,7,10.94,Cash,Riverside,1
+820,31/01/2026,Iced Tea,Salads,3,25.14,Card,Mall,5
+821,21/02/2023,Fries,Sides,2,5.81,Card,Downtown,
+822,08/07/2024,Coke,Drinks,2,27.65,Cash,Eastside,5
+823,28/07/2026,Margherita Pizza,Burger,7,12.29,Cash,Airport,3
+824,23/01/2024,Margherita Pizza,Pizza,5,25.01,MobileMoney,Uptown,2
+825,14/03/2025,Cheeseburger,Burger,7,13.21,Card,Downtown,3
+826,15/11/2024,Chocolate Shake,Burger,8,10.05,MobileMoney,Mall,4
+827,27/05/2024,Margherita Pizza,Desserts,10,30.82,Cash,Mall,4
+828,18/09/2026,Orange Juice,Salads,4,34.68,Cash,West End,5
+829,07/06/2024,Fries,Sides,1,23.38,Card,West End,3
+830,15/03/2026,Iced Tea,Drinks,7,26.45,MobileMoney,Uptown,3
+831,27/09/2025,Pepperoni Pizza,Drinks,1,21.92,MobileMoney,Downtown,1
+832,07/03/2023,Chicken Wings,Burger,2,31.34,MobileMoney,Airport,1
+833,06/06/2025,Coke,Burger,7,21.26,Cash,Riverside,3
+834,11/11/2023,Iced Tea,Sides,2,19.67,Cash,Riverside,3
+835,04/12/2023,Margherita Pizza,Desserts,1,19.91,Card,Airport,
+836,14/09/2024,Chicken Wings,Pizza,8,8.92,Card,Eastside,
+837,20/04/2026,Chocolate Shake,Burger,9,14.5,MobileMoney,Riverside,
+838,18/09/2023,Chicken Wings,Burger,7,2.37,MobileMoney,Mall,2
+839,20/10/2023,Pepperoni Pizza,Drinks,8,11.97,MobileMoney,Uptown,3
+840,12/04/2025,Iced Tea,Sides,1,26.87,Card,Airport,3
+841,02/02/2023,Margherita Pizza,Desserts,7,10.48,Card,Mall,1
+842,26/12/2025,Chicken Wings,Sides,6,25.77,Cash,Eastside,5
+843,28/08/2025,Cheeseburger,Burger,6,31.43,Cash,Airport,1
+844,24/04/2026,Pepperoni Pizza,Desserts,5,15.74,MobileMoney,Uptown,
+845,13/01/2023,Coke,Pizza,7,27.85,Cash,West End,3
+846,24/04/2024,Cheeseburger,Sides,5,12.53,Cash,Eastside,3
+847,26/05/2024,Fries,Drinks,4,20.14,Cash,West End,2
+848,14/06/2024,Pepperoni Pizza,Wraps,8,25.79,Card,Airport,4
+849,21/10/2025,Coke,Wraps,6,14.46,MobileMoney,Airport,1
+850,08/01/2025,Pepperoni Pizza,Salads,9,31.84,Card,Eastside,4
+851,30/05/2025,Chicken Wings,Salads,3,24.65,Card,Uptown,
+852,29/09/2025,Coke,Burger,2,8.23,MobileMoney,Downtown,2
+853,19/11/2026,Iced Tea,Sides,8,12.11,MobileMoney,Eastside,4
+854,17/12/2025,Orange Juice,Burger,7,12.76,Cash,Mall,1
+855,03/10/2025,Pepperoni Pizza,Wraps,10,39.47,MobileMoney,Mall,1
+856,12/06/2026,Fries,Burger,7,25.33,Cash,Riverside,3
+857,07/08/2023,Iced Tea,Burger,2,27.28,MobileMoney,Uptown,2
+858,02/02/2024,Iced Tea,Sides,8,17.01,Card,Riverside,4
+859,15/08/2023,Chicken Wings,Drinks,7,17.74,Cash,Mall,
+860,09/09/2025,Cheeseburger,Desserts,3,17.79,Cash,Uptown,2
+861,24/05/2024,Chicken Wings,Pizza,10,19.13,MobileMoney,Riverside,4
+862,15/10/2025,Pepperoni Pizza,Pizza,7,14.78,MobileMoney,West End,1
+863,24/07/2025,Orange Juice,Sides,4,12.25,Card,Airport,1
+864,24/07/2023,Chocolate Shake,Wraps,7,17.59,Cash,Uptown,
+865,03/12/2024,Veggie Burger,Salads,1,17.86,Card,Riverside,5
+866,15/05/2025,Coke,Wraps,1,10.18,Cash,Eastside,
+867,19/07/2025,Chocolate Shake,Sides,7,19.0,Card,Mall,3
+868,17/07/2023,Coke,Sides,9,1.37,MobileMoney,Airport,4
+869,28/10/2023,Chicken Wings,Pizza,1,6.9,Card,Downtown,5
+870,27/05/2024,Chicken Wings,Sides,2,35.89,Card,Uptown,1
+871,10/05/2024,Coke,Pizza,6,7.71,Cash,Uptown,5
+872,17/05/2025,Coke,Pizza,3,15.95,MobileMoney,West End,2
+873,05/05/2023,Veggie Burger,Drinks,9,17.0,Cash,Airport,1
+874,05/08/2026,Coke,Wraps,8,12.54,MobileMoney,Airport,5
+875,13/02/2026,Orange Juice,Wraps,9,8.26,Card,Airport,5
+876,15/01/2023,Chicken Wings,Wraps,2,33.88,Card,Uptown,3
+877,03/12/2023,Veggie Burger,Desserts,5,3.55,Cash,Downtown,1
+878,21/12/2025,Cheeseburger,Salads,7,15.84,Card,Mall,2
+879,15/02/2024,Fries,Pizza,4,27.15,Card,Airport,5
+880,01/02/2023,Coke,Salads,6,32.04,Cash,Eastside,2
+881,28/10/2024,Chicken Wings,Desserts,4,12.41,Card,Airport,4
+882,06/02/2026,Margherita Pizza,Desserts,6,31.53,Card,Eastside,4
+883,14/07/2025,Fries,Burger,10,14.91,Cash,Mall,2
+884,22/06/2025,Pepperoni Pizza,Sides,8,16.49,Card,Downtown,5
+885,23/11/2023,Margherita Pizza,Burger,9,33.19,Card,Downtown,3
+886,01/12/2024,Margherita Pizza,Desserts,2,22.91,Card,Riverside,4
+887,14/05/2024,Coke,Desserts,6,28.03,Card,West End,2
+888,23/02/2026,Iced Tea,Salads,7,5.96,MobileMoney,Downtown,4
+889,09/11/2024,Pepperoni Pizza,Sides,10,31.86,MobileMoney,West End,3
+890,22/11/2024,Pepperoni Pizza,Salads,2,6.61,MobileMoney,Downtown,5
+891,09/11/2024,Coke,Salads,3,23.8,Cash,Airport,4
+892,04/02/2026,Orange Juice,Salads,8,19.94,MobileMoney,Mall,2
+893,16/10/2025,Margherita Pizza,Pizza,6,8.75,Card,Eastside,4
+894,15/05/2023,Coke,Wraps,10,15.32,MobileMoney,Mall,1
+895,28/02/2026,Veggie Burger,Wraps,8,33.73,MobileMoney,Downtown,3
+896,18/12/2023,Cheeseburger,Salads,5,38.97,MobileMoney,West End,1
+897,26/04/2023,Orange Juice,Desserts,4,32.83,Cash,Eastside,
+898,06/10/2026,Chocolate Shake,Salads,8,38.84,Cash,Riverside,
+899,09/10/2024,Orange Juice,Pizza,8,4.68,Cash,Downtown,3
+900,16/12/2025,Veggie Burger,Drinks,3,26.73,Card,Mall,1
+901,14/01/2025,Fries,Burger,1,1.6,MobileMoney,Riverside,
+902,10/10/2025,Chicken Wings,Burger,9,32.5,Cash,Mall,1
+903,31/05/2026,Orange Juice,Drinks,2,26.77,MobileMoney,West End,2
+904,02/06/2025,Cheeseburger,Drinks,8,4.26,MobileMoney,Uptown,3
+905,21/06/2025,Orange Juice,Desserts,5,11.76,Cash,Eastside,5
+906,11/09/2026,Pepperoni Pizza,Pizza,6,17.18,Card,Downtown,
+907,07/09/2023,Fries,Desserts,3,23.33,Card,Airport,4
+908,09/04/2023,Orange Juice,Desserts,8,34.01,Cash,Eastside,
+909,19/03/2025,Chocolate Shake,Sides,8,33.5,MobileMoney,Riverside,4
+910,21/04/2026,Iced Tea,Sides,6,26.79,MobileMoney,Uptown,5
+911,08/03/2026,Pepperoni Pizza,Desserts,1,9.7,MobileMoney,Downtown,5
+912,22/02/2024,Fries,Wraps,2,18.34,Cash,Riverside,1
+913,03/01/2025,Chicken Wings,Drinks,1,18.8,Cash,West End,
+914,16/11/2026,Pepperoni Pizza,Sides,2,32.37,Cash,Airport,2
+915,17/06/2023,Chicken Wings,Desserts,10,32.73,Cash,Eastside,4
+916,08/07/2023,Margherita Pizza,Pizza,7,14.75,Cash,Mall,
+917,02/09/2025,Iced Tea,Salads,3,33.43,Card,West End,1
+918,02/02/2023,Orange Juice,Wraps,4,31.62,Cash,Riverside,4
+919,03/06/2023,Chocolate Shake,Sides,5,27.34,MobileMoney,Eastside,1
+920,25/06/2026,Chicken Wings,Desserts,7,16.92,Card,Riverside,5
+921,15/05/2024,Veggie Burger,Sides,5,37.15,MobileMoney,Eastside,4
+922,04/09/2023,Veggie Burger,Wraps,8,30.62,Card,Downtown,
+923,14/12/2024,Orange Juice,Sides,2,39.58,MobileMoney,Riverside,2
+924,15/12/2026,Chocolate Shake,Burger,5,17.84,Cash,Eastside,5
+925,14/05/2024,Pepperoni Pizza,Pizza,5,11.97,Card,Mall,5
+926,16/11/2023,Veggie Burger,Wraps,7,34.62,MobileMoney,Downtown,1
+927,28/06/2023,Chocolate Shake,Drinks,2,10.53,MobileMoney,Uptown,4
+928,06/06/2026,Margherita Pizza,Salads,4,32.78,MobileMoney,Airport,3
+929,24/11/2025,Chocolate Shake,Wraps,1,26.69,MobileMoney,Eastside,1
+930,24/06/2025,Cheeseburger,Salads,7,3.45,MobileMoney,Downtown,1
+931,26/08/2024,Coke,Burger,10,3.53,Cash,Airport,4
+932,01/01/2025,Margherita Pizza,Burger,1,2.55,Cash,Airport,3
+933,23/05/2024,Cheeseburger,Drinks,1,31.64,Card,Riverside,5
+934,03/09/2023,Veggie Burger,Salads,10,30.06,Card,Mall,2
+935,30/09/2026,Coke,Desserts,1,31.17,Card,Riverside,1
+936,27/03/2026,Veggie Burger,Wraps,2,2.28,Card,Eastside,5
+937,15/01/2026,Cheeseburger,Wraps,1,1.26,MobileMoney,West End,2
+938,02/05/2026,Pepperoni Pizza,Desserts,4,14.78,Cash,Airport,4
+939,01/08/2023,Coke,Burger,9,26.38,Card,Uptown,5
+940,25/02/2025,Orange Juice,Desserts,4,11.75,Cash,West End,1
+941,28/07/2026,Fries,Drinks,4,19.5,Cash,Airport,4
+942,12/03/2023,Fries,Salads,8,23.92,MobileMoney,Airport,4
+943,04/07/2026,Chicken Wings,Burger,9,16.97,Card,Eastside,2
+944,27/02/2024,Chocolate Shake,Desserts,7,10.57,Cash,Uptown,4
+945,21/06/2023,Cheeseburger,Desserts,6,36.42,Cash,Airport,1
+946,05/04/2025,Iced Tea,Pizza,1,33.85,MobileMoney,Downtown,
+947,11/09/2024,Margherita Pizza,Wraps,8,16.75,Cash,Downtown,1
+948,05/11/2026,Veggie Burger,Pizza,9,35.44,Cash,Mall,5
+949,13/12/2023,Orange Juice,Desserts,2,4.44,Card,Mall,3
+950,31/01/2023,Chocolate Shake,Pizza,6,12.81,Cash,West End,1
+951,03/07/2025,Veggie Burger,Drinks,1,24.38,MobileMoney,Uptown,4
+952,11/06/2023,Pepperoni Pizza,Burger,6,17.61,Card,Mall,4
+953,28/04/2024,Veggie Burger,Wraps,5,28.68,Cash,West End,3
+954,12/12/2025,Fries,Desserts,9,36.23,Cash,West End,2
+955,30/05/2024,Margherita Pizza,Burger,10,13.83,MobileMoney,Airport,3
+956,08/01/2026,Veggie Burger,Wraps,5,7.94,Cash,Downtown,5
+957,09/05/2023,Iced Tea,Burger,8,33.9,Card,Downtown,3
+958,13/02/2025,Veggie Burger,Drinks,8,8.11,MobileMoney,Uptown,4
+959,03/06/2023,Chicken Wings,Drinks,9,9.39,MobileMoney,Eastside,4
+960,05/04/2024,Veggie Burger,Pizza,8,25.89,Cash,Uptown,3
+961,23/05/2025,Veggie Burger,Drinks,1,21.41,Cash,West End,1
+962,21/10/2023,Chocolate Shake,Drinks,2,9.66,MobileMoney,Mall,1
+963,19/02/2025,Chocolate Shake,Salads,2,2.6,Cash,Downtown,3
+964,14/06/2025,Veggie Burger,Pizza,6,23.5,Card,Riverside,3
+965,22/10/2026,Cheeseburger,Salads,7,2.71,Card,Uptown,5
+966,29/09/2026,Iced Tea,Sides,10,18.53,MobileMoney,Downtown,2
+967,14/11/2024,Margherita Pizza,Salads,9,2.16,Card,Mall,3
+968,22/11/2025,Veggie Burger,Desserts,7,36.08,Card,West End,5
+969,01/07/2023,Veggie Burger,Pizza,8,14.38,Cash,Riverside,1
+970,23/12/2023,Pepperoni Pizza,Salads,8,36.64,Cash,Riverside,5
+971,07/09/2024,Pepperoni Pizza,Drinks,4,35.03,Card,Uptown,3
+972,11/12/2026,Margherita Pizza,Drinks,2,11.49,Card,Airport,2
+973,19/08/2025,Chocolate Shake,Desserts,9,9.33,Cash,Riverside,4
+974,17/05/2025,Fries,Salads,1,1.58,Cash,West End,2
+975,02/02/2026,Pepperoni Pizza,Pizza,7,29.61,MobileMoney,Uptown,5
+976,20/05/2023,Cheeseburger,Desserts,9,37.51,Cash,Uptown,1
+977,19/12/2026,Coke,Pizza,6,5.62,Card,Downtown,2
+978,23/10/2023,Pepperoni Pizza,Salads,10,32.34,MobileMoney,Mall,1
+979,02/10/2025,Veggie Burger,Desserts,9,36.17,Cash,West End,4
+980,16/12/2023,Veggie Burger,Drinks,10,25.49,MobileMoney,Eastside,4
+981,14/08/2026,Fries,Pizza,9,4.78,Card,West End,
+982,16/10/2025,Pepperoni Pizza,Burger,6,32.42,Cash,Mall,1
+983,14/02/2026,Margherita Pizza,Burger,5,8.54,MobileMoney,Eastside,1
+984,09/05/2024,Coke,Sides,2,8.64,MobileMoney,Eastside,4
+985,09/03/2026,Orange Juice,Salads,9,25.07,MobileMoney,West End,3
+986,11/04/2026,Chicken Wings,Pizza,8,5.54,Cash,Mall,1
+987,11/12/2025,Cheeseburger,Burger,1,24.12,Cash,Eastside,5
+988,07/12/2023,Pepperoni Pizza,Desserts,7,1.12,Cash,Mall,5
+989,30/05/2026,Chocolate Shake,Pizza,5,26.25,Cash,West End,4
+990,14/10/2025,Iced Tea,Salads,7,31.88,MobileMoney,Downtown,2
+991,12/08/2025,Chicken Wings,Drinks,5,22.13,MobileMoney,Uptown,2
+992,15/05/2023,Chicken Wings,Wraps,6,18.89,Card,Riverside,4
+993,23/11/2024,Orange Juice,Wraps,8,12.9,Card,Downtown,4
+994,16/03/2026,Pepperoni Pizza,Salads,1,19.13,MobileMoney,Uptown,3
+995,15/09/2025,Orange Juice,Sides,6,20.64,Card,Riverside,2
+996,05/02/2023,Iced Tea,Drinks,9,22.25,Card,Airport,3
+997,28/10/2024,Fries,Salads,7,3.24,Card,Mall,
+998,04/12/2024,Chicken Wings,Wraps,4,25.64,Cash,Airport,2
+999,12/01/2025,Fries,Burger,3,32.37,Card,Mall,1
+1000,01/08/2023,Coke,Desserts,4,26.4,Card,Airport,
